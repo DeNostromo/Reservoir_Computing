@@ -1,0 +1,1 @@
+Project contains a CNN and an ESN for comparison. The content contains the code for a regression tasks, specifically denosing of audio, a classification task, specifically sound source localization. Furthermore the code contains an ESN with several readouts attached to one reservoir, thus performing regression and classification simultaneously. 
